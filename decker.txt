@@ -1,6 +1,17 @@
-git add decker.txt - Änderungen in Programm einbinden
-git commit - bereitmachen zu push
-git push - hochladen zu repository
+git add decker.txt //Änderungen in Programm einbinden
+git commit //bereitmachen zu push
+git push //hochladen zu repository
 
 git commit -a
+git push
+
+//readme ändern
+git add readme.txt
+git commit
+git push
+//Fehler bei dem mir
+
+Lösung:
+git pull
+git commit
 git push
