@@ -1,0 +1,5 @@
+git clone
+//in richtigen Ordner gehen
+git add nschickm.txt
+git commit
+git push
