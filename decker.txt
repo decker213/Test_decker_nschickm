@@ -1,0 +1,3 @@
+git add decker.txt - Änderungen in Programm einbinden
+git commit - bereitmachen zu push
+git push - hochladen zu repository
