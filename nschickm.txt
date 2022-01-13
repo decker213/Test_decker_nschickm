@@ -3,3 +3,12 @@ git clone
 git add nschickm.txt
 git commit
 git push
+
+git commit -a
+git push
+
+//ReadME ändern
+git add ReadME
+git commit
+git push
+//Funktioniert, Fehler bei Ecker
